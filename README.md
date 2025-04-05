@@ -10,3 +10,6 @@ conda create -n mchat python=3.13 -y
 conda activate mchat
 ```
 
+```bash
+pip install -r requirements.txt
+```
