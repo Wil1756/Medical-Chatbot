@@ -3,3 +3,6 @@ sentence-transformers==4.0.2
 pinecone
 langchain==0.3.23
 flask
+langchain-community
+langchain-huggingface
+pypdf
