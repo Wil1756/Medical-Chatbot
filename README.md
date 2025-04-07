@@ -1,7 +1,7 @@
 # Medical-Chatbot
 End to end medical chatbot using Llama2
 
-## steps to run the project
+## steps to run the medical chatbot
 ```bash
 conda create -n mchat python=3.13 -y
 ``` 
